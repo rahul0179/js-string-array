@@ -18,5 +18,5 @@ if (friends.indexOf('abul' != -1)) {
     console.log("abul ace");
 }
 if (friends.includes('ratul')) {
-    console.log("ace");
+    console.log(" ace");
 }
